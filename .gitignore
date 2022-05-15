@@ -1,4 +1,4 @@
-./.env
-./credentials.db
-./__pycache__
-./venv
+.env
+credentials.db
+/__pycache__
+/venv
