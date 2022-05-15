@@ -1,0 +1,4 @@
+./.env
+./credentials.db
+./__pycache__
+./venv
